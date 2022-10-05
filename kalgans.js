@@ -2,7 +2,7 @@
 › Create By Haikal
 › Base Ori Haikal
 
-🌷 KALAU MAU RENAME TARO CREDITS GUA : HW MODS WA */
+🌷 KALAU MAU RENAME TARO CREDITS GUA : BIMZ LOW LEVEL */
 
 require('./hwkal')
 const { default: makeWASocket, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
@@ -165,7 +165,7 @@ fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `SUBSCRIBE BIMZ LOW LEVEL`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -186,7 +186,7 @@ fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `SUBSCRIBE BIMZ LOW LEVEL`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
